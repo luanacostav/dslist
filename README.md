@@ -28,4 +28,4 @@ O projeto inclui configuração Docker Compose para configurar e executar um con
 ## 👩‍💻 Autor
 Luana Costa Vasconcelos
 
-[Linkedin](www.linkedin.com/in/luana-costa-vasconcelos)
+[Linkedin](https://www.linkedin.com/in/luana-costa-vasconcelos)
