@@ -13,6 +13,10 @@
 *.tar.gz
 *.rar
 
+# Env
+./gamelist/docker/.env.dev
+./gamelist/docker/.env.development
+
 # Maven
 target/
 .mvn/wrapper/maven-wrapper.jar
