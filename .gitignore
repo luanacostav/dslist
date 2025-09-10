@@ -14,8 +14,8 @@
 *.rar
 
 # Env
-./gamelist/docker/.env.dev
-./gamelist/docker/.env.development
+*.env
+*.env.*
 
 # Maven
 target/
