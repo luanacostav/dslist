@@ -25,7 +25,7 @@ Projeto desenvolvido no evento organizado pela [DevSuperior](https://devsuperior
 ## 🐳 Ambiente Local com Docker Compose
 O projeto inclui configuração Docker Compose para configurar e executar um container do Postgresql e PgAdmin, eliminando a necessidade de instalação local do banco de dados
 
-## 👩‍💻 Autor
+## 👩‍💻 Autora
 Luana Costa Vasconcelos
 
 [Linkedin](https://www.linkedin.com/in/luana-costa-vasconcelos)
